@@ -12,9 +12,7 @@
 
 # Three-Layer Framework and Illustrative Application
 
-This document accompanies the paper and presents the framework's hypothetical AI-assisted debugging scenario. It illustrates intended uses of the framework rather than reporting an implemented or evaluated intervention.
-
-[View or download the framework diagram (PDF)](THREE-LAYERS.pdf)
+This document accompanies the paper and presents the framework's **hypothetical** AI-assisted debugging scenario. It illustrates intended uses of the framework rather than reporting an implemented or evaluated intervention.
 
 ## Framework Overview
 
