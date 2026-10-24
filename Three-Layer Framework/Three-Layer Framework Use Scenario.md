@@ -1,7 +1,7 @@
 # Three-Layer Framework and Use Scenarios 
 
 <p align="center">
-  <img src="Three-Layer Framework.pdf" alt="View Three-Layer Framework" width="500"/>
+  <img src="Three-Layer Framework.png" alt="View Three-Layer Framework" width="500"/>
 </p>
 
 <p align="center">
@@ -9,364 +9,96 @@
   <br/>
   <a href="Three-Layer Framework.pdf">Download full PDF</a>
 </p>
-Figure 1 demonstrates a  multi-layer framework that provides standardized yet flexible pathways for AI-enhanced learning and work.
-This framework links GenAI use at the activity level to role-specific professional lifecycles and aligns practices across education and industry.
-
-### Table 1. GenAI Usage Pipeline Across Roles
-
-| Step | Teachers | Students | Developers |
-|------|----------|----------|------------|
-| **Identify** | Identify opportunities for authentic, ethical GenAI use in learning | Identify suitable use cases (e.g., misunderstood concepts) | Identify task needs and match them to appropriate AI tools |
-| **Engage** | Engage students in structured, purposeful AI activities | Engage with GenAI using clear prompts and context | Engage GenAI by embedding requirements and context into prompts |
-| **Evaluate** | Evaluate GenAI use based on outcomes, integrity, and reflection | Evaluate AI outputs for accuracy and relevance | Evaluate outputs against engineering standards |
-| **Optimize** | Optimize learning design and prompts for deeper interaction | Optimize prompts when outputs are insufficient | Optimize prompts under technical and business constraints |
-| **Refine** | Refine activities to enhance human judgment and post-AI work | Refine outputs through editing or restructuring | Refine outputs via standardization and integration |
-| **Finalize** | Finalize resources with transparent AI use and reflection guidance | Finalize assignments with revisions or learning logs | Finalize deliverables with AI traces and documentation |
-| **Monitor** | Monitor student progress and adapt instruction | Monitor personal GenAI use and reflect on ethics and growth | Monitor AI performance and adjust usage |
-
-**Layer 1** (Table 1) provides an illustrative example, showing how teachers, students, and developers each incorporate GenAI into role-specific activities: teachers into teaching practice, students into learning tasks, and developers into workplace workflows. 
-
-**Layer 2** expands this view to role-specific professional lifecycles, capturing how GenAI-supported tasks are embedded within broader domains of learning, teaching, and professional practice. For students, this includes course engagement, skill formation, and career preparation; for teachers, curriculum design, classroom integration, assessment, and professional development; and for developers, project delivery, continuous upskilling, and compliance with professional standards. In each case, Layer 1 task workflows operate as micro-cycles within these lifecycles, ensuring that GenAI use supports sustained competency development rather than isolated efficiency gains.
-
-**Layer 3** of the ecosystem framework focuses on cross-role interactions between teachers, students, and developers. Each relationship (Teacher–Student, Student–Developer, Teacher–Developer) is defined by a set of verbs that serve as operational indicators.
-
-These verbs can be used in **tick-box, Likert scale, or rubric-style assessments** to measure the effectiveness of AI-enhanced teaching, learning, and professional practice.
-
-The following sections provide three concrete scenarios that illustrate how **teachers, students, and developers** interact within the proposed framework. Each scenario focuses on a specific domain of practice, showing how the proposed **Three-Layer Framework** can be applied and evaluated in practical contexts.  
-
-- [1. Work-Integrated Learning (Student ↔ Developer)](#1-work-integrated-learning-wil-use-scenario-student--developer)  
-- [2. Classroom Integration (Teacher ↔ Student)](#2-classroom-integration-use-scenario-teacher--student)  
-- [3. Project Delivery (Teacher ↔ Developer)](#3-project-delivery-use-scenario-teacher--developer)
-
----
-
-
-## 1. Work-Integrated Learning (WIL) Use Scenario (Student ↔ Developer)
-Work-Integrated Learning (WIL) provides a practical domain for applying the three-layer ecosystem framework. In this setting, students engage in authentic tasks that resemble professional workflows, while developers or mentors evaluate and support their performance.  
-
-The evaluation focuses on **Layer 3 interactions** between students and developers. Each verb (e.g., *Apply, Demonstrate, Reflect, Iterate, Show, Evaluate, Guide, Foster*) serves as an observable indicator of how GenAI is used and scaffolded. 
-
----
-
-### Student ↔ Developer Interaction Framework in WIL  
-
-<table>
-  <tr>
-    <td><b>Interaction</b></td>
-    <td><b>Phase (Verb)</b></td>
-    <td><b>Observable Behavior</b></td>
-  </tr>
-
-  <tr>
-    <td rowspan="4"><b>Student → Developer</b></td>
-    <td><b>Apply</b></td>
-    <td><i>Student:</i> Uses GenAI to generate solutions and integrate outputs into tasks.</td>
-  </tr>
-  <tr>
-    <td><b>Demonstrate</b></td>
-    <td><i>Student:</i> Presents GenAI-supported outputs (code, documentation, tests).</td>
-  </tr>
-  <tr>
-    <td><b>Reflect</b></td>
-    <td><i>Student:</i> Provides critical reflections on GenAI’s role, limits, and ethics.</td>
-  </tr>
-  <tr>
-    <td><b>Iterate</b></td>
-    <td><i>Student:</i> Revises GenAI use based on mentor feedback and refines outputs.</td>
-  </tr>
-
-  <tr>
-    <td rowspan="4"><b>Developer → Student</b></td>
-    <td><b>Show</b></td>
-    <td><i>Developer:</i> Demonstrates real-world AI workflows, tools, and practices.</td>
-  </tr>
-  <tr>
-    <td><b>Evaluate</b></td>
-    <td><i>Developer:</i> Reviews student outputs against technical and ethical standards.</td>
-  </tr>
-  <tr>
-    <td><b>Guide</b></td>
-    <td><i>Developer:</i> Provides targeted advice on improving GenAI use and practices.</td>
-  </tr>
-  <tr>
-    <td><b>Foster</b></td>
-    <td><i>Developer:</i> Encourages sustainable, transferable GenAI practices for long-term growth.</td>
-  </tr>
-</table>
-
----
-### Practical Application  
-
-- **Students** are assessed not only on the correctness of outputs but also on *how* they integrate GenAI into their workflow (*Apply, Reflect, Demonstrate, Iterate*).  
-- **Developers/Mentors** contribute by *Showing* authentic use cases, *Evaluating* student outputs, *Guiding* improvements, and *Fostering* responsible long-term practices.  
-- This creates a **bidirectional loop** where student performance and developer mentorship can both be measured, ensuring that GenAI integration in WIL tasks is transparent, ethical, and transferable to industry contexts.  
----
-
-### Evaluation with Tick-box Rubric  
-This rubric illustrates how **Layer 3 verbs** can be operationalized into a practical evaluation of Student–Developer interactions in WIL tasks.  
-
-#### Student Evaluation  
-
-- **Apply**
-  - [ ] Student integrates GenAI into the task workflow appropriately  
-  - [ ] AI-generated outputs meet task requirements  
-  - [ ] Outputs are documented with clear prompts and context  
-
-- **Reflect**
-  - [ ] Student provides critical reflection on GenAI’s role and limits  
-  - [ ] Ethical implications are acknowledged  
-  - [ ] Reflection links GenAI use to personal learning goals  
-
-- **Demonstrate**
-  - [ ] Student presents GenAI-supported outputs (code/docs/tests)  
-  - [ ] Outputs are transparent and reproducible  
-  - [ ] AI use is explicitly justified in the submission  
-
-- **Iterate**
-  - [ ] Student revises GenAI use based on mentor feedback  
-  - [ ] Prompts or strategies show improvement  
-  - [ ] Outputs demonstrate meaningful refinement  
-
-#### Developer Evaluation  
-
-- **Show**
-  - [ ] Demonstrates professional GenAI workflows in practice  
-  - [ ] Highlights risks, compliance, and ethical standards  
-  - [ ] Provides workplace-like examples (e.g., demos, case studies)  
-
-- **Evaluate**
-  - [ ] Reviews outputs against technical and ethical standards  
-  - [ ] Assesses both process (prompts, iterations) and outcomes  
-  - [ ] Uses consistent rubrics across students  
-
-- **Guide**
-  - [ ] Offers targeted advice on improving GenAI use  
-  - [ ] Encourages deeper reasoning beyond tool outputs  
-  - [ ] Suggests concrete strategies (prompting, debugging, workflow adaptation)  
-
-- **Foster**
-  - [ ] Reinforces sustainable GenAI practices for long-term growth  
-  - [ ] Promotes balance between efficiency and deep learning  
-  - [ ] Encourages independence and professional judgment alongside GenAI
-        
----
-
-## 2. Classroom Integration Use Scenario (Teacher ↔ Student)  
-
-Classroom integration provides another domain for applying the three-layer ecosystem framework, especially in the design and use of teaching materials. In this setting, teachers structure GenAI use through instructional design, while students actively engage with AI-enhanced resources and activities.  
-
-The evaluation focuses on **Layer 3 interactions** between teachers and students. Each verb (e.g., *Model, Reflect, Scaffold, Feedback, Practice, Evaluate, Question, Inform*) serves as an observable indicator of how GenAI is embedded in learning and teaching. 
-
----
-### Teacher ↔ Student Interaction Framework in Classroom Integration  
-
-<table>
-  <tr>
-    <td><b>Interaction</b></td>
-     <td><b>Phase (Verb)</b></td>
-     <td><b>Observable Behavior</b></td>
-  </tr>
-  <tr>
-    <td rowspan="4"><b>Teacher → Student</b></td>
-    <td><b>Model</b></td>
-    <td><i>Teacher:</i> Demonstrates responsible GenAI use (e.g., generating teaching examples, prompts).</td>
-  </tr>
-  <tr>
-    <td><b>Reflect</b></td>
-    <td><i>Teacher:</i> Shares reflections on opportunities and risks of GenAI in teaching contexts.</td>
-  </tr>
-  <tr>
-    <td><b>Scaffold</b></td>
-    <td><i>Teacher:</i> Designs structured GenAI tasks, provides checkpoints and guiding resources.</td>
-  </tr>
-  <tr>
-    <td><b>Feedback</b></td>
-    <td><i>Teacher:</i> Gives formative feedback on how students apply GenAI in assignments.</td>
-  </tr>
-
-  <tr>
-    <td rowspan="4"><b>Student → Teacher</b></td>
-    <td><b>Practice</b></td>
-    <td><i>Student:</i> Applies GenAI in guided tasks, experimenting with prompts and outputs.</td>
-  </tr>
-  <tr>
-    <td><b>Evaluate</b></td>
-    <td><i>Student:</i> Critically evaluates AI outputs against accuracy, relevance, and task goals.</td>
-  </tr>
-  <tr>
-    <td><b>Question</b></td>
-    <td><i>Student:</i> Raises questions about GenAI outputs, ethics, or limitations during class tasks.</td>
-  </tr>
-  <tr>
-    <td><b>Inform</b></td>
-    <td><i>Student:</i> Provides feedback on AI-integrated materials, informing future teaching design.</td>
-  </tr>
-</table>
-
----
-
-### Practical Application  
-
-- **Students** are evaluated on how effectively they *Practice* GenAI use, *Evaluate* outputs, *Question* assumptions, and *Inform* teachers about their learning experience.  
-- **Teachers** operationalize integration by *Modeling* responsible practices, *Reflecting* on AI’s role, *Scaffolding* structured use cases, and *Providing Feedback*.  
-- This creates a **bidirectional loop** in which students develop responsible, critical AI literacies, while teachers continuously refine teaching materials and strategies.  
-
----
-
-### Evaluation with Tick-box Rubric  
-
-#### Student Evaluation  
-
-- **Practice**  
-  - [ ] Student engages with GenAI tasks as instructed  
-  - [ ] Outputs are aligned with task requirements  
-  - [ ] Demonstrates attempts to improve prompt use  
-
-- **Evaluate**  
-  - [ ] Critically assesses AI outputs against accuracy and relevance  
-  - [ ] Identifies limitations or errors in outputs  
-  - [ ] Links evaluation to learning objectives  
-
-- **Question**  
-  - [ ] Raises questions about unclear or problematic AI outputs  
-  - [ ] Engages in ethical or conceptual discussions about GenAI use  
-  - [ ] Seeks clarification on GenAI’s role in the task  
-
-- **Inform**  
-  - [ ] Provides feedback on the usefulness of AI-integrated materials  
-  - [ ] Suggests improvements for task design or guidance  
-  - [ ] Reflects on how GenAI affects their learning process  
-
-
-#### Teacher Evaluation  
-
-- **Model**  
-  - [ ] Demonstrates GenAI use with transparency and ethical awareness  
-  - [ ] Explains rationale behind prompts and outputs  
-  - [ ] Shows both strengths and weaknesses of GenAI  
-
-- **Reflect**  
-  - [ ] Shares pedagogical reflections on integrating GenAI  
-  - [ ] Acknowledges risks such as overreliance or bias  
-  - [ ] Connects GenAI use to broader learning goals  
-
-- **Scaffold**  
-  - [ ] Designs structured, stepwise activities integrating GenAI  
-  - [ ] Provides checkpoints and resources to guide responsible use  
-  - [ ] Ensures tasks encourage higher-order thinking, not shortcuts  
-
-- **Feedback**  
-  - [ ] Gives formative comments on student GenAI outputs and processes  
-  - [ ] Highlights effective practices and areas for improvement  
-  - [ ] Reinforces responsible and ethical GenAI habits  
-
----
-
-## 3. Project Delivery Use Scenario (Teacher ↔ Developer)
-
-Project delivery represents a critical domain for applying the three-layer ecosystem framework. In this setting, developers share workplace practices of AI-supported delivery, while teachers adapt and refine curricula to prepare students for these professional standards. The interaction ensures that academic projects simulate authentic workplace delivery cycles.
-
-The evaluation focuses on **Layer 3 interactions** between teachers and developers. Each verb (e.g., Propose, Verify, Feedback, Co-evolve, Translate, Construct, Align, Collaborate) serves as an observable indicator of how project delivery practices are co-shaped in AI-enhanced contexts.
-
----
-
-### Teacher ↔ Developer Interaction Framework in Project Delivery
-
-<table> 
-  <tr> 
-    <td><b>Interaction</b></td> 
-    <td><b>Phase (Verb)</b></td> 
-    <td><b>Observable Behavior</b></td> 
-  </tr> 
-  
-  <tr> <td rowspan="4"><b>Developer → Teacher</b></td> 
-    <td><b>Propose</b></td>
-    <td><i>Developer:</i> Proposes AI-supported project practices and identifies authentic problems that can be addressed with GenAI (e.g., sprint planning, testing, documentation).</td>
-  </tr> 
-  <tr>
-    <td><b>Verify</b></td>
-    <td><i>Developer:</i> Reviews course projects to confirm they mirror professional delivery workflows with AI.</td>
-  </tr> 
-  <tr> 
-    <td><b>Feedback</b></td> 
-    <td><i>Developer:</i> Provides structured feedback on project outputs, highlighting quality and responsible AI integration.</td> 
-  </tr> 
-  <tr> 
-    <td><b>Co-evolve</b></td> 
-    <td><i>Developer:</i> Collaborates with teachers to co-design AI-enhanced project tasks simulating workplace cycles.</td>
-  </tr>
-  <tr> 
-    <td rowspan="4"><b>Teacher → Developer</b></td> 
-    <td><b>Translate</b></td> 
-    <td><i>Teacher:</i> Converts industry delivery norms into teachable project assignments.</td>
-  </tr> 
-  <tr> 
-    <td><b>Construct</b></td>
-    <td><i>Teacher:</i> Designs structured project workflows embedding AI use (planning, coding, reporting).</td>
-  </tr> 
-  <tr> 
-    <td><b>Align</b></td>
-    <td><i>Teacher:</i> Ensures outcomes reflect industry delivery standards, including AI-supported processes.</td> 
-  </tr>
-  <tr>
-    <td><b>Collaborate</b></td>
-    <td><i>Teacher:</i> Partners with developers in capstone projects, case studies, or showcases with AI-enhanced delivery.</td>
-  </tr> 
-  </table>
-
----
-
-### Practical Application  
-
-- **Developers** contribute by *Proposing* AI-supported practices, *Verifying* classroom projects against delivery workflows, offering *Feedback* on outputs, and engaging in *Co-evolution* project-based tasks with teachers.  
-- **Teachers** adapt by *Translating* industry practices into assignments, *Constructing* structured delivery workflows, *Aligning* learning outcomes with industry expectations, and *Collaborating* on WIL, capstones or showcases.  
-- This creates a **bidirectional loop**,  ensuring students experience AI-enhanced project delivery both as academic training and as preparation for professional contexts.
-
-
----
-
-### Evaluation with Tick-box Rubric  
-
-#### Developer Evaluation  
-
-- **Propose**
-  - [ ] Shares AI-supported delivery practices relevant to industry projects
-  - [ ] Provides concrete, transferable use cases for academic projects
-  - [ ] Highlights both the benefits and risks of AI integration 
-
-- **Verify**
-  - [ ] Reviews course projects against professional delivery standards
-  - [ ] Checks AI use in planning, execution, and reporting phases
-  - [ ] Confirms alignment with current industry workflows 
-
-- **Feedback**
-  - [ ] Gives actionable comments on student deliverables
-  - [ ] Addresses clarity, quality, and AI integration explicitly  
-  - [ ] Suggests improvements grounded in workplace practices
-
-- **Co-evolve**
-  - [ ] Co-designs AI-enhanced project tasks with teachers  
-  - [ ] Iteratively refines tasks through collaboration
-  - [ ] Ensures tasks reflect evolving industry norms  
-
-#### Teacher Evaluation  
-
-- **Translate**
-  - [ ] Converts workplace delivery norms into student-friendly assignments 
-  - [ ] Embeds AI tasks at an appropriate complexity level 
-  - [ ] Connects delivery practices to clear learning outcomes  
-
-- **Construct**
-  - [ ] Builds structured project workflows with AI-enhanced tasks
-  - [ ] Ensures balance between AI support and human reasoning  
-  - [ ] Provides checkpoints to guide responsible AI use
-
-- **Align**
-  - [ ] Revises outcomes to reflect industry delivery standards  
-  - [ ] Explicitly links student projects to professional expectations
-  - [ ] Integrates ethical and practical AI use in learning outcomes
-- **Collaborate**
-  - [ ] Engages developers in capstones, showcases, or reviews
-  - [ ] Shares rubrics and teaching resources with developers 
-  - [ ] Evolves and co-creates learning materials and assignments with developers
 
+# Three-Layer Framework and Illustrative Application
+
+This document accompanies the paper and presents the framework's hypothetical AI-assisted debugging scenario. It illustrates intended uses of the framework rather than reporting an implemented or evaluated intervention.
+
+[View or download the framework diagram (PDF)](THREE-LAYERS.pdf)
+
+## Framework Overview
+
+The framework connects three layers:
+
+- **Layer 1: AI-Integrated Task Pipeline** structures individual tasks through six stages: **Identify, Engage, Evaluate, Refine, Deliver, and Reflect**. Earlier stages may be revisited, and human participants retain responsibility for evaluating and accepting AI-assisted outputs.
+- **Layer 2: Professional Development Loop** connects tasks within role-specific activities, allowing experience and feedback from one activity to inform others.
+- **Layer 3: Computing Education Ecosystem** connects students, educators, and professional developers through pedagogical scaffolding, education–practice alignment, and professional transition.
+
+The scenario below follows the layers from ecosystem alignment to role-specific development and individual tasks. Feedback from practice also informs subsequent development and alignment.
+
+## Illustrative Application: AI-Assisted Debugging
+
+The survey identified debugging as a common use of GenAI among students and professional developers, alongside shared concerns about verifying AI-generated outputs. To illustrate the framework, we construct a hypothetical scenario in which government policy permits GenAI use in university computing programs. The scenario follows how universities, industry, and students coordinate their expectations under this policy setting (Layer 3), how these expectations shape connected development activities within each role (Layer 2), and how they are enacted through individual tasks (Layer 1). These tasks comprise a student debugging assignment, educators' AI-assisted assignment design, and developers' AI-assisted bug fixing.
+
+### Layer 3: Ecosystem Alignment
+
+The hypothetical policy decision affects all groups, whose responses shape one another. Universities must decide how students learn and are assessed when AI can produce part of their work. Educators must teach with tools they are still learning themselves. Employers' expectations of graduates change as AI enters their own workflows. Students sit at the center of these changes and encounter expectations from each group.
+
+Representatives of universities, industry, and students therefore discuss what AI literacy means for computing graduates and how it can be assessed. Their discussion establishes a shared direction rather than a fixed specification: AI literacy includes verifying AI-generated outputs and taking responsibility for the resulting decisions, and assessment examines how students develop their solutions, not only the final artifact.
+
+This direction connects the groups through:
+
+- **Pedagogical scaffolding:** how students progress toward responsible AI use.
+- **Education–practice alignment:** connecting educational goals with workplace expectations.
+- **Professional transition:** how graduates carry their preparation into employment.
+
+As practices change, feedback from each group informs revisions to this shared direction.
+
+### Layer 2: Role Development
+
+The shared direction reaches each group through changes to its everyday activities. These activities inform one another and support the development of capabilities needed to put the direction into practice.
+
+**Students.** Debugging exercises in programming courses require students to check AI suggestions rather than accept them uncritically. They apply these verification strategies in collaborative projects, where they explain their own AI-assisted changes and review those of their peers. Ethical reflection addresses responsibility for these decisions. Assessments completed without AI identify gaps that inform subsequent learning activities. These connected experiences are intended to develop verification and judgment for professional practice.
+
+**Educators.** The direction shapes curriculum design: verification becomes a learning objective, and assignments ask students to show how they reached their solutions. Marking this evidence reveals whether the assignments elicit the intended reasoning, informing revisions to scaffolding and rubrics. Professional development and discussion with colleagues support these revisions, while difficulties encountered in teaching identify further professional learning needs. Educators thus develop their own practice of teaching with AI while putting the shared direction into effect.
+
+**Developers.** The direction shapes workplace training, code review, and graduate mentoring. Reviewing AI-assisted changes puts verification and responsibility into practice. A boundary case overlooked in a repair and identified during review becomes an example in team training and a check in subsequent reviews. Mentoring builds on what graduates bring from their programs and identifies where further support is needed. Developers adapt their practices accordingly, and their observations return to Layer 3 as feedback on graduate preparation.
+
+### Layer 1: Task Pipeline
+
+Within these activities, the pipeline structures how the shared direction is enacted in an individual task. Each task below requires verification and evidence supporting the resulting decisions, while retaining human responsibility for accepting AI-assisted outputs. The following tables present a student debugging assignment, guidelines for educators' AI-assisted assignment design, and an operational guide for developers' AI-assisted bug fixing.
+
+#### Students: AI-Assisted Debugging Assignment Using the Task Pipeline
+
+**Task:** Debug the provided program using GenAI. Document your work across the six stages, revisiting earlier stages as needed.
+
+| Stage | Assignment Instructions |
+|---|---|
+| **Identify** | Run the program before using AI. Describe its observed and expected behavior. What might be causing the difference? |
+| **Engage** | Use a GenAI tool to investigate the problem. Record your prompts and its responses. What help are you seeking from the tool? |
+| **Evaluate** | Inspect the suggested changes and test them. Does the AI's suggestion address the problem? Explain your judgment using evidence from the code and tests. |
+| **Refine** | Revise the solution based on your evaluation and test it again. What did you retain, modify, or reject from the AI's suggestion, and why? |
+| **Deliver** | Submit your corrected code and test results. Explain how your changes resolve the problem. Are there any remaining limitations? |
+| **Reflect** | Write a brief reflection on your debugging process. How did AI help or hinder your work? What did you learn, and what would you do differently next time? |
+
+The assignment makes students' AI-assisted problem-solving process visible. Assessment can consider their diagnosis, verification, justification, and reflection alongside the correctness of the final code. Although this assignment requires AI use, instructors can vary its permitted role according to learning objectives and include independent debugging tasks to assess students' understanding without AI assistance.
+
+#### Educators: Design Guidelines for AI-Assisted Assignment Design Using the Task Pipeline
+
+**Context:** Educators design and review a debugging assignment with GenAI support, including student instructions, faulty code, reference materials, and assessment criteria.
+
+| Stage | Design Guidelines |
+|---|---|
+| **Identify** | Establish the learning objectives and prerequisite knowledge. Determine what evidence would demonstrate students' debugging understanding beyond producing correct code with AI. |
+| **Engage** | Provide GenAI with the objectives, student level, and teaching constraints. Use it to explore suitable faults, task instructions, tests, or rubric descriptors. |
+| **Evaluate** | Work through the proposed assignment and execute its code and tests. Check technical correctness, workload, and difficulty. Examine whether the requested submissions and rubric make the intended learning assessable. |
+| **Refine** | Resolve ambiguous instructions and revise unsuitable faults, incomplete tests, or rubric criteria. Adjust scaffolding and AI-use boundaries where students could bypass the intended reasoning. |
+| **Deliver** | Prepare the assignment brief, checked reference solution, tests, and rubric. Make permitted AI use and expectations for verification and independent explanation clear to students and teaching staff. |
+| **Reflect** | Review the design decisions and anticipated difficulties. After classroom use, revisit these judgments using student work, questions, and marking difficulties to inform subsequent teaching. |
+
+These guidelines support pedagogical judgment rather than prescribe a fixed teaching procedure. Evidence from classroom use can inform subsequent design and assessment activities within Layer 2.
+
+#### Developers: An Operational Guide to AI-Assisted Bug Fixing Using the Task Pipeline
+
+**Context:** Developers investigate and repair a project defect with GenAI support, alongside existing development and review procedures.
+
+| Stage | Operational Guidance |
+|---|---|
+| **Identify** | Reproduce the failure and establish expected behavior. Check the issue report, relevant requirements, and affected components before selecting a repair approach. |
+| **Engage** | Use an approved GenAI tool to explore possible causes, repairs, or missing tests. Supply sufficient technical context while respecting restrictions on confidential code and data. |
+| **Evaluate** | Inspect the proposed diff and verify its behavior against the requirements. Run relevant tests and check boundary cases, regressions, and potential compatibility or security implications. |
+| **Refine** | Revise or discard unsupported changes. Add tests for the reported failure and newly identified risks, and rerun the relevant checks. Keep the patch focused on the intended repair. |
+| **Deliver** | Submit the patch through the normal review process, with the cause, repair rationale, test evidence, and known limitations. Disclose AI assistance where required by project policy. |
+| **Reflect** | Use review feedback and any subsequent failures to identify missed assumptions or verification gaps. Feed relevant lessons into regression tests, review checklists, or team guidance for future AI-assisted work. |
+
+The resulting evidence supports patch-review decisions, while review outcomes can inform subsequent implementation, testing, and team learning within Layer 2.
