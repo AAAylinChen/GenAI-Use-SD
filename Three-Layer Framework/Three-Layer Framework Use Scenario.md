@@ -1,13 +1,13 @@
 # Three-Layer Framework and Use Scenarios 
 
 <p align="center">
-  <img src="THREE-LAYERS.png" alt="View Three-Layer Framework" width="500"/>
+  <img src="Three-Layer Framework.pdf" alt="View Three-Layer Framework" width="500"/>
 </p>
 
 <p align="center">
-  <em>Figure 1. Three-layer ecosystem framework for AI-enhanced software engineering education and professional practice.</em>  
+  <em>Figure 1. A Conceptual Three-Layer Framework for Human-Centered AI-Integrated Computing Education.</em>  
   <br/>
-  <a href="THREE-LAYERS.pdf">Download full PDF</a>
+  <a href="Three-Layer Framework.pdf">Download full PDF</a>
 </p>
 Figure 1 demonstrates a  multi-layer framework that provides standardized yet flexible pathways for AI-enhanced learning and work.
 This framework links GenAI use at the activity level to role-specific professional lifecycles and aligns practices across education and industry.
