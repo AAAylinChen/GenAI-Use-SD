@@ -19,6 +19,7 @@ This repository is shared as part of a double-blind submission. Author identitie
 │
 ├──Three-Layer Framework/ # Framework and use scenarios 
 │ ├── Three-Layer Framework.pdf
+│ ├── Three-Layer Framework.png
 │ └── Three-Layer Framework Use Scenario.md
 │
 ├── LICENSE.md
